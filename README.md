@@ -1,5 +1,5 @@
-# CodInsights-CLI
-criação de um CLI em .Net Core 3.1 🚀
+# CodInsights-CLI ![CodeQL](https://github.com/RDPodcasting/command-line-api/workflows/CodeQL/badge.svg)
+Criação de um CLI em .Net Core 3.1 🚀
 
 Para saber mais sobre command-line, acesse [a documentação da microsoft](https://github.com/dotnet/command-line-api).
 
